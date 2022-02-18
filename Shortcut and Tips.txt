@@ -1,2 +1,0 @@
->> So, the simplest way to clear the array is: arr.length = 0;
->> https://medium.com/@mertcanarguc/15-javascript-codes-you-will-always-need-e8569903dd1
